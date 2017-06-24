@@ -1,6 +1,6 @@
 # ConsoleCalculator
 
-By <a href="http://jrliv.com/about/" target="_blank">Jae Logan</a>
+By <a target="_blank" href="http://jrliv.com/about/">Jae Logan</a>
 
 ## Description
 
