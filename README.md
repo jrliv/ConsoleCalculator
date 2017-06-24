@@ -8,7 +8,7 @@ A simple console calculator created with C#. I created this project with the goa
 
 ## Screenshot
 
-<img src="https://res.cloudinary.com/jrliv/image/upload/v1498321003/conCalc_fzakt5.jpg" alt="Screenshot of console calculator application" />
+<img src="https://res.cloudinary.com/jrliv/image/upload/v1498322238/conCalc_wgwqay.jpg" alt="Screenshot of console calculator application" />
 
 ##	Usage
 
